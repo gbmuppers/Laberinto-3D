@@ -1,0 +1,4 @@
+﻿  ImageLoader.cpp
+  Laberinto.cpp
+c:\users\gibran ojeda\source\repos\pf_graficacion_gibyleo\pf_graficacion_gibyleo\laberinto.cpp(5): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  stdafx.cpp
