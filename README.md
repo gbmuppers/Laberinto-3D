@@ -1,5 +1,5 @@
 # Laberinto3D
-Laberinto en 3D desarrollado en C con VIsual Studio
+Laberinto en 3D desarrollado en C con Visual Studio utilizando la librería OpenGL
 
 Bueno, el proyecto originalmente no es nuestro y sinceramente no recuerdo de donde viene la mayor parte del código.
 
