@@ -11,3 +11,6 @@ Actualmente el laberinto solo cuenta con 1 nivel.
 Obvio, hay cosas que pueden mejorarse, como por ejemplo, hacer que haya muchos diseños de laberintos y... hacer varios niveles, sería una de ellos.
  :D
  
+ En la carpeta REALESE, se encuentra un .exe de cómo se ve el juego actualmente :)
+ Espero que les sirva. ^^
+ 
